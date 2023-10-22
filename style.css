@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://simkl.in/episodes/45/4544802b0de5561ff_w.jpg);
+    background-repeat: repeat;
+    background-size: 100%;
+    margin: 0px 40px;
+}
+h1{display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+*{font-family: oswald;
+
+}
+p{background-color:pink;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+h2{background-color: blueviolet;  
+    padding: 20px;
+    border-radius: 20px;
+    display: inline-block;
+}
+img{display: flex;
+    justify-content: left;
+
+}
